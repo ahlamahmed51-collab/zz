@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hnantaher0-beep.github.io/zz/sitemap.xml
+Sitemap: https://ahlamahmed51-collab.github.io/zz/sitemap.xml
